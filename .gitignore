@@ -1,0 +1,76 @@
+﻿# Ignore Visual Studio temporary files, build results, and
+# folder-based project outputs
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 2019
+.vs/
+
+# Rider
+.idea/
+.idea_modules/
+*.iml
+out/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*.appx
+*.appxupload
+*.buildlog
+*.cache
+*.dll
+*.exe
+*.ilk
+*.ipch
+*.iobj
+*.log
+*.nupkg
+*.obj
+*.pch
+*.pdb
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tmp
+*.trx
+*.tlog
+*.vcxproj.*
+*.vspscc
+.buildcomplete
+.cache
+.vs/
+
+# End of .gitignore

@@ -1,0 +1,6 @@
+@WebApplication_punchFit_HostAddress = http://localhost:5237
+
+GET {{WebApplication_punchFit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
